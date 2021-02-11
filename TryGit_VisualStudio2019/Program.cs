@@ -14,6 +14,7 @@ namespace TryGit_VisualStudio2019
         [STAThread]
         static void Main()
         {
+            Person oPerson = new Person();
             //Hello World! (1) 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
