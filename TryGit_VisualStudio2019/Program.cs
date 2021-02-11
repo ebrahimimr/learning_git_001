@@ -21,5 +21,5 @@ namespace TryGit_VisualStudio2019
             Application.Run(new Form1());
             //Bye Bye !
         }
-    }
+    } 
 }
